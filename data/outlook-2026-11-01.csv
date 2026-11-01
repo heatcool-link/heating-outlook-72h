@@ -1,0 +1,10 @@
+date_utc,city,state,window_start_utc,window_end_utc,heating_degree_hours_f,cooling_degree_hours_f,coldest_forecast_f,warmest_forecast_f,covered_hours,status,nws_forecast_url
+2026-11-01,Birmingham,AL,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,237,252,57,75,72.0,complete,"https://api.weather.gov/gridpoints/BMX/59,84/forecast"
+2026-11-01,Columbus,OH,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,388,252,52,76,72.0,complete,"https://api.weather.gov/gridpoints/ILN/85,81/forecast"
+2026-11-01,Dallas,TX,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,37,612,54,86,72.0,complete,"https://api.weather.gov/gridpoints/FWD/89,104/forecast"
+2026-11-01,Huntsville,AL,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,287,228,54,76,72.0,complete,"https://api.weather.gov/gridpoints/HUN/63,43/forecast"
+2026-11-01,Louisville,KY,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,325,192,53,76,72.0,complete,"https://api.weather.gov/gridpoints/LMK/50,78/forecast"
+2026-11-01,Memphis,TN,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,132,264,59,75,72.0,complete,"https://api.weather.gov/gridpoints/MEG/42,67/forecast"
+2026-11-01,Miami,FL,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,0,1037,75,84,72.0,complete,"https://api.weather.gov/gridpoints/MFL/110,50/forecast"
+2026-11-01,Nashville,TN,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,366,228,53,77,72.0,complete,"https://api.weather.gov/gridpoints/OHX/50,57/forecast"
+2026-11-01,Phoenix,AZ,2026-11-01T02:32:16.655679+00:00,2026-11-04T02:32:16.655679+00:00,179,288,56,75,72.0,complete,"https://api.weather.gov/gridpoints/PSR/159,58/forecast"
